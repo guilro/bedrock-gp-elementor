@@ -44,6 +44,7 @@
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "roots/soil": "^3.7",
+    "wpackagist-theme/generatepress": "^1.3",
     "guilro/gp-premium": "dev-master",
     "wpackagist-plugin/elementor": "^1.0",
     "wpackagist-plugin/contact-form-7": "^4.6"
